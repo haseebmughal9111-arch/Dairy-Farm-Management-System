@@ -39,7 +39,7 @@ Password: "1947"
 
 How to Run
 
-1. Compile the "Dairy Form management system.cpp" file using any C++ compiler.
+1. Compile the "Dairy Farm management system.cpp" file using any C++ compiler.
 2. Run the generated executable.
 3. Enter the login credentials.
 4. Select the desired module from the main menu.
@@ -55,7 +55,3 @@ Future Improvements
 Author
 
 Muhammad Haseeb
-
-Author
-
-Haseeb Mughal
